@@ -80,7 +80,7 @@
                         <img src="/assets/img/sofa%20.jpg" alt="Lead Baker">
                     </div>
                     <div class="provider-details">
-                        <h3>Sofa</h3>
+                        <h3>Sofaa</h3>
                         <p>Award-winning the “Dreamee Master Class” conducted by Dreamee Cakes in Ho Chi Minh City, Vietnam.</p>
                         <div class="provider-socials">
                             <a href="https://www.instagram.com/sofaa_collections?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><i class="fab fa-instagram"></i> @sofaa_collections</a>

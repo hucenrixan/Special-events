@@ -80,7 +80,7 @@
                         <img src="assets/img/shifau photo.jpg" alt="Lead Photographer">
                     </div>
                     <div class="provider-details">
-                        <h3>Shifau Photograper</h3>
+                        <h3>Shifau Photographer</h3>
                         <p>Lead Photographer & Cinematographer with over 8 years of experience in capturing high-end events from Maldives.</p>
                         <div class="provider-socials">
                             <a href="https://www.instagram.com/shifau.photographer/" target="_blank"><i class="fab fa-instagram"></i> @shifau.photographer</a>
