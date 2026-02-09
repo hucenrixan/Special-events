@@ -84,8 +84,8 @@
                             <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=60" alt="Marcus Thorne" style="width: 120px; height: 120px;">
                         </div>
                         <div class="provider-details">
-                            <h3>Marcus Thorne</h3>
-                            <p>Global Logistics Expert</p>
+                            <h3>Shifau Photographer</h3>
+                            <p>Photographer </p>
                         </div>
                     </div>
                 </div>
