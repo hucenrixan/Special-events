@@ -78,7 +78,7 @@
                         <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=300&q=60" alt="Travel Consultant">
                     </div>
                     <div class="provider-details">
-                        <h3>Daniel Evans</h3>
+                        <h3>Empu</h3>
                         <p>Senior Travel Consultant specializing in luxury romantic getaways and adventurous honeymoon experiences across the globe.</p>
                         <div class="provider-socials">
                             <a href="https://instagram.com/daniel_travels" target="_blank"><i class="fab fa-instagram"></i> @daniel_travels</a>
