@@ -49,48 +49,7 @@
             </div>
         </section>
 
-        <section class="team-section" style="padding: 80px 0; background-color: var(--accent-color);">
-            <div class="container">
-                <div class="section-title">
-                    <h2>Our Experts</h2>
-                    <span class="flourish">
-                        <svg width="100" height="30" viewBox="0 0 100 30" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M10,15 C30,5 70,25 90,15" stroke="#8b947a" fill="transparent" stroke-width="1"/>
-                            <path d="M45,15 C50,10 50,10 55,15 C50,20 50,20 45,15" stroke="#8b947a" fill="#8b947a"/>
-                        </svg>
-                    </span>
-                </div>
-                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; margin-top: 50px;">
-                    <div class="provider-card" style="flex-direction: column; text-align: center; padding: 30px;">
-                        <div class="provider-image" style="margin-bottom: 20px;">
-                            <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=300&q=60" alt="Sarah Mitchell" style="width: 120px; height: 120px;">
-                        </div>
-                        <div class="provider-details">
-                            <h3>Hussain Rizan</h3>
-                            <p>Lead Event Stylist</p>
-                        </div>
-                    </div>
-                    <div class="provider-card" style="flex-direction: column; text-align: center; padding: 30px;">
-                        <div class="provider-image" style="margin-bottom: 20px;">
-                            <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=60" alt="Shifau Photographer" style="width: 120px; height: 120px;">
-                        </div>
-                        <div class="provider-details">
-                            <h3>Shifau Photographer</h3>
-                            <p>Lead Photographer</p>
-                        </div>
-                    </div>
-                    <div class="provider-card" style="flex-direction: column; text-align: center; padding: 30px;">
-                        <div class="provider-image" style="margin-bottom: 20px;">
-                            <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=60" alt="Marcus Thorne" style="width: 120px; height: 120px;">
-                        </div>
-                        <div class="provider-details">
-                            <h3>Shifau Photographer</h3>
-                            <p>Photographer </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+
     </main>
 
     <?php include 'includes/footer.php'; ?>
