@@ -43,7 +43,7 @@
                 </div>
                 <div class="video-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 30px;">
                     <div class="video-item">
-                        <div class="video-thumbnail" style="height: 350px; border-radius: 10px; overflow: hidden; position: relative; cursor: pointer;" data-video="https://www.youtube.com/embed/YpS8V_7HkS4">
+                        <div class="video-thumbnail" style="height: 350px; border-radius: 10px; overflow: hidden; position: relative; cursor: pointer;" data-video="https://www.youtube.com/embed/xKfkyfVDp5c">
                             <img src="https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=800&q=60" alt="Cinematic Wedding" style="width: 100%; height: 100%; object-fit: cover;">
                             <div class="play-btn" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 70px; height: 70px; background: rgba(139,148,122,0.8); border-radius: 50%; display: flex; justify-content: center; align-items: center; color: #fff; font-size: 1.5rem;">
                                 <i class="fas fa-play"></i>
