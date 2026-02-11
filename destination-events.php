@@ -101,13 +101,13 @@
                         <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=60" alt="Lead Coordinator">
                     </div>
                     <div class="provider-details">
-                        <h3>Hussain Rizan</h3>
+                        <h3>Marcus Thorne</h3>
                         <p>Global Event Logistics Expert with over 15 years of experience in managing high-profile destination weddings and luxury corporate retreats across 40+ countries.</p>
                         <div class="provider-socials">
-                            <a href="https://instagram.com/marcus_destinations" target="_blank"><i class="fab fa-instagram"></i> @hucenrixan</a>
+                            <a href="https://instagram.com/marcus_destinations" target="_blank"><i class="fab fa-instagram"></i> @marcus_destinations</a>
                         </div>
                         <div class="provider-contact">
-                            <i class="fas fa-phone"></i> +960 9707788
+                            <i class="fas fa-phone"></i> +94 77 334 4556
                         </div>
                     </div>
                 </div>

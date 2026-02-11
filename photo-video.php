@@ -30,42 +30,6 @@
             </div>
         </section>
 
-        <section class="video-highlights" style="padding: 80px 0; background-color: #f9f9f7;">
-            <div class="container">
-                <div class="section-title">
-                    <h2>Cinematic Highlights</h2>
-                    <span class="flourish">
-                        <svg width="100" height="30" viewBox="0 0 100 30" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M10,15 C30,5 70,25 90,15" stroke="#8b947a" fill="transparent" stroke-width="1"/>
-                            <path d="M45,15 C50,10 50,10 55,15 C50,20 50,20 45,15" stroke="#8b947a" fill="#8b947a"/>
-                        </svg>
-                    </span>
-                </div>
-                <div class="video-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 30px;">
-                    <div class="video-item">
-                        <div class="video-thumbnail" style="height: 350px; border-radius: 10px; overflow: hidden; position: relative; cursor: pointer;" data-video="https://www.youtube.com/embed/xKfkyfVDp5c">
-                            <img src="https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=800&q=60" alt="Cinematic Wedding" style="width: 100%; height: 100%; object-fit: cover;">
-                            <div class="play-btn" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 70px; height: 70px; background: rgba(139,148,122,0.8); border-radius: 50%; display: flex; justify-content: center; align-items: center; color: #fff; font-size: 1.5rem;">
-                                <i class="fas fa-play"></i>
-                            </div>
-                        </div>
-                        <h3 style="margin-top: 15px; font-family: var(--font-heading); color: var(--primary-color);">Elegant Maldives Wedding</h3>
-                        <p>A cinematic journey through a beautiful beachfront celebration.</p>
-                    </div>
-                    <div class="video-item">
-                        <div class="video-thumbnail" style="height: 350px; border-radius: 10px; overflow: hidden; position: relative; cursor: pointer;" data-video="https://www.youtube.com/embed/5U9v9_00R0Y">
-                            <img src="https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=800&q=60" alt="Event Highlight" style="width: 100%; height: 100%; object-fit: cover;">
-                            <div class="play-btn" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 70px; height: 70px; background: rgba(139,148,122,0.8); border-radius: 50%; display: flex; justify-content: center; align-items: center; color: #fff; font-size: 1.5rem;">
-                                <i class="fas fa-play"></i>
-                            </div>
-                        </div>
-                        <h3 style="margin-top: 15px; font-family: var(--font-heading); color: var(--primary-color);">Luxury Island Celebration</h3>
-                        <p>Capturing the essence of joy and luxury in paradise.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
         <section class="work-gallery" style="padding: 80px 0;">
             <div class="container">
                 <div class="section-title">
@@ -130,19 +94,6 @@
         </section>
     </main>
 
-    <?php 
-        $extraFooterContent = '
-        <!-- Video Modal -->
-        <div id="videoModal" class="video-modal">
-            <div class="modal-content">
-                <span class="close-modal">&times;</span>
-                <div class="video-container">
-                    <iframe id="videoPlayer" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
-        ';
-    ?>
     <?php include 'includes/footer.php'; ?>
 </body>
 </html>
