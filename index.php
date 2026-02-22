@@ -191,7 +191,7 @@
                             <div class="testimonial-content">
                                 <div class="quote-icon"><i class="fas fa-quote-left"></i></div>
                                 <p>"The photography and video team captured every emotion so beautifully. Looking at our wedding album feels like reliving the magic all over again."</p>
-                                <div class="couple-name">Emily & David</div>
+                                <div class="couple-name">Melisa & Ahmed</div>
                                 <div class="event-date">December 2025</div>
                             </div>
                             <div class="testimonial-image">
